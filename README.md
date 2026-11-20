@@ -3,7 +3,7 @@
 새봄묵상 음성 파일 저장소 (GitHub Pages). 페이지는 이 주소로 재생한다:
 https://cheol0929-thejoy.github.io/saebom-audio/<연도>/<YYYY-MM-DD>_<pastor|f|m>.mp3
 
-- pastor = 신철 목사 녹음 · f / m = 목사님 녹음이 없는 날에만 쓰는 AI 낭독(여/남)
+- pastor = 신철 목사 녹음 · f / m = 페이지가 내놓는 AI 낭독(여/남) — 목사님 녹음이 없는 날 전부 + 녹음이 있어도 페이지가 여/남 버튼을 주는 날(2026-11-16, 11-19)
 - 파일은 덮어쓰지 않는다. 같은 날 녹음을 바꾸면 새 이름(_v2)으로 올린다.
 - SHA256SUMS = 로컬 원본(마스터)과 같은 값. manifest.json = 페이지 경로(audio/...) → 이 저장소 경로.
 
